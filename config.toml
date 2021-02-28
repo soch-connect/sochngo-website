@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://soch-connect.github.io"
+baseURL = "https://sochngo.com"
 title = "Educenter | hugo education template"
 theme = "educenter-hugo"
 themesDir = "themes/"
